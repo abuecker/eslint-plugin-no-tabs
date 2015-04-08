@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-no-tabs",
+  "version": "0.0.1",
+  "description": "No Tab indents allowed",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abuecker/eslint-plugin-no-tabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abuecker/eslint-plugin-no-tabs/issues"
+  },
+  "homepage": "https://github.com/abuecker/eslint-plugin-no-tabs"
+}
